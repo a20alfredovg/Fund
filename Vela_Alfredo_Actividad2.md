@@ -55,7 +55,7 @@ Pasos:
 
 ### 2.3 Configuración Inicial
 
-
+Iniciamos la MV comprobando que se inicie correctamente. 
 
 
 
