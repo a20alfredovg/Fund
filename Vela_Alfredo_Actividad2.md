@@ -55,8 +55,9 @@ Pasos:
 
 ### 2.3 Configuración Inicial
 
-Iniciamos la MV comprobando que se inicie correctamente. 
-
+Iniciamos la MV comprobando que se inicie correctamente. Nos identificamos con el usuario por defecto ***jefe*** con pass ***'abc123..'*** y seguimos unos secillos pasos de configuración inicial con el superusuario ***root***:
+1. Cambiamos el nombre del servidor:
+  > - 
 
 
 ---
