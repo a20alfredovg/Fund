@@ -57,24 +57,12 @@ Pasos:
 
 
 
-Tipos:
-1. **Monomodo** 🚀: largas distancias, alta capacidad.
-2. **Multimodo** 🌐: distancias cortas, menor coste.
 
-Beneficios:
-- Ancho de banda extremadamente alto.
-- Inmunidad total a interferencias electromagnéticas.
-- Seguridad en la transmisión 🔒.
 
 ---
 
 ## 3. Comparativa técnica
 
-| Medio          | Ancho de banda | Distancia máxima | Inmunidad al ruido | Coste relativo |
-|----------------|----------------|------------------|--------------------|----------------|
-| Par trenzado   | Medio          | 100 m            | Baja               | Bajo           |
-| Cable coaxial  | Medio-Alto     | 500 m            | Media              | Medio          |
-| Fibra óptica   | Muy alto       | > 40 km          | Muy alta           | Alto           |
 
 ---
 
