@@ -124,3 +124,9 @@ En resumen:
 
 - Esta documentación se ha elaborado utilizando Markdown.
 - El control de versiones se realiza mediante Git y el repositorio remoto se encuentra alojado en GitHub.
+
+## 10. Próximas mejoras
+
+1. Actualizar los servidores.
+2. Editar el documento.
+3. Simplificar algunas secciones.
